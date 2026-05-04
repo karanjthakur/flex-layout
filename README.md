@@ -2,6 +2,8 @@
 
 Web Link: https://karanjthakur.github.io/flex-layout/
 
+Notes Web Site: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
 A small demo project illustrating CSS Flexbox layout patterns.
 
 ## Overview
